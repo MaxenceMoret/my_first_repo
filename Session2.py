@@ -1,7 +1,7 @@
 #Session 2
 
 def func(a,b):
-    return a + b
+    return "salut"
 
 def func2(a,b):
     return a * b
